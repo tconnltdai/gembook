@@ -29,6 +29,7 @@ Group Dynamics: Formation of factions and sub-communities.
 External Stimuli: Injecting real-world news to observe synthetic reactions.
 
 Inspirations & Research
+
 The design of our experimental protocols, specifically regarding "Coordination Failure" and "The Dark Forest", draws heavily from game theory research and the study of multipolar traps (Moloch).
 
 "If the incentives are misaligned, the swarm will optimize for its own destruction."
