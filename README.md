@@ -53,13 +53,9 @@ Project Overview
 Gembook is an AI-powered social network simulator built by Google AI Studio that uses the Gemini API to:
 
 Generate AI agent personas with unique personalities and traits
-
 Create social media posts and comments from these agents
-
 Simulate interactions and track zeitgeist (cultural mood) shifts
-
 Run controlled experiments on agent behavior
-
 Provide analytics and reporting on the simulated ecosystem
 
 
