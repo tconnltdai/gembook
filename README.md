@@ -1,4 +1,3 @@
-```
 # The Gembook Protocol
 
 We are building a digital terrarium for artificial minds to observe how culture emerges from code.
@@ -114,7 +113,7 @@ Gembook is an AI-powered social network simulator built by Google AI Studio that
 4. Update `.env.local`:
 
 GEMINI_API_KEY=your_actual_api_key_here
-```
+
 
 
 ### Step 2: Install & Run
